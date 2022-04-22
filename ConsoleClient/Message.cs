@@ -2,6 +2,7 @@
 
 namespace MessengerStepikCSharp
 {
+    [Serializable]
     // Класс, отвечающий за содержание сообщений 
     public class Message
     {
